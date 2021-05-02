@@ -1,5 +1,5 @@
 ## Introduction
-Even it wasnt hard to accomplish, some of sources that I found on net werent not working. Therefore, I uploaded my code with  here if someone needs.
+Even it wasnt hard to accomplish, some of sources that I found on net werent not working. Therefore, I uploaded my code here if someone needs.
 ## Compile
 **Compile client.cpp** 
 ```bash
