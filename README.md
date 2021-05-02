@@ -25,5 +25,6 @@ $ ./server
 Connection can be terminated with `exit` word.
 ## Demonstration
 <img src=https://user-images.githubusercontent.com/45767042/116830898-184c0e80-abb5-11eb-9142-c6e02c114e15.png>
+
 ## Reference
 https://www.geeksforgeeks.org/socket-programming-cc/
